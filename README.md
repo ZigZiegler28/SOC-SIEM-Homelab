@@ -44,6 +44,9 @@ Generate our payload on Sliver, and implant the malware into the Windows host ma
 <img width="1920" height="1032" alt="Screenshot 2025-12-01 180451" src="https://github.com/user-attachments/assets/7153ecd1-b800-4df7-a0aa-3b69daf4e298" />
 <img width="1920" height="1032" alt="Screenshot 2025-12-01 180527" src="https://github.com/user-attachments/assets/15c4a5db-266b-4a87-9bc0-f1de24e571ec" />
 <img width="1920" height="1032" alt="Screenshot 2025-12-01 180551" src="https://github.com/user-attachments/assets/090ba954-f496-4810-9de4-21146d010024" />
+
+<hspac>
+- Item not found on VirusTotal doesn't mean that the file is innocent, just that it has never been seen before by VirusTotal, which makes sense because we just created this payload. 
 <img width="904" height="972" alt="Screenshot 2025-12-01 180605" src="https://github.com/user-attachments/assets/960b6147-0696-4557-bd46-3cbf28cf32d9" />
 <img width="1920" height="1032" alt="Screenshot 2025-12-01 180728" src="https://github.com/user-attachments/assets/4601dea7-e582-406c-8c56-30a9e6414f0e" />
 
